@@ -3,8 +3,8 @@
 #include <TFT_eSPI.h>
 
 // Config SSID and password
-const char* ssid = "Screen 577";
-const char* password = "Hac577775!";
+const char* ssid = "ESP-AP";
+const char* password = "123456789";
 
 IPAddress local_IP(10, 0, 0, 1);
 IPAddress gateway(10, 0, 0, 1);
